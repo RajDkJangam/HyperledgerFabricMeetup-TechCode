@@ -7,7 +7,7 @@ The material includes:
 
 - [Hyperledger Composer](./Composer.pdf) presentation
 - [Car Auction Network](./carauction-network/README.md) demo
-- [Todo List Network](https://github.com/sanjay-saxena/todolist-network/blob/master/README.md)
+- [Todo List Network](https://github.com/sanjay-saxena/todolist-network/blob/master/README.md) exercise
 
 Use the following command to clone this repo with submodules:
 
