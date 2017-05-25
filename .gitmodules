@@ -1,0 +1,3 @@
+[submodule "todolist-network"]
+	path = todolist-network
+	url = https://github.com/sanjay-saxena/todolist-network
