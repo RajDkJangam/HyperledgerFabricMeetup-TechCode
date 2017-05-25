@@ -248,9 +248,16 @@ You can use `./scripts/list.sh` to look at the assets that were created by the `
 
 ## Generate Angular2 app
 
+<<<<<<< HEAD:simple-todolist-network/README.md
 First install the generator:
 ```
 npm install -g generator-hyperledger-composer
+=======
+First, install the generator as shown below:
+
+```
+$ npm install -g generator-hyperledger-composer
+>>>>>>> 6ede087b32c84d2c9b794d4642a02ad1a887e05f:todolist-network-hlfv1/README.md
 ```
 
 Here is the step to generate the Angular2 app for Todo List using Yeoman:
