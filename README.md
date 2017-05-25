@@ -9,3 +9,9 @@ The material includes:
 - [Car Auction Network](./carauction-network/README.md) demo
 - [Simple Todo List Network](./simple-todolist-network/README.md) exercise
 
+Use the following command to clone this repo with submodules:
+
+```
+$ git clone --recursive https://github.com/sanjay-saxena/HyperledgerFabricMeetup-TechCode
+```
+
